@@ -46,3 +46,8 @@ The project stems from the potential to improve employee satisfaction, reduce co
 - Results: The results, including the accuracy and confusion matrix, are printed for each algorithm.
 - Model Performance Comparison: The hvPlot library is used to visualize the ROC curve diagram comparing the performance of all models used.
 ```
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### :file_folder: DATASET
+This is a hypothetical dataset created by IBM data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
