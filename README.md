@@ -93,3 +93,22 @@ This is a hypothetical dataset created by IBM data scientists. The dataset has (
 
 Dataset Link:
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### :memo: LIBRARIES USED:
+```
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- HvPlot
+- SciPy
+- Sklearn
+- XGBoost
+- LightGBM
+- CatBoost
+- Warnings
+```
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
