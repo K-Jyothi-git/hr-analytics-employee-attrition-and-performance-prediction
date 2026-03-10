@@ -175,3 +175,8 @@ In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics A
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### :scroll: LICENSE
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+ 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
